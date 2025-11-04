@@ -1,0 +1,19 @@
+{
+  "name": "Paf Casino Sverige",
+  "short_name": "Paf Casino Sverige",
+  "theme_color": "",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1762248130-toronto-logo-01-3-cr.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
